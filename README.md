@@ -15,7 +15,7 @@ Language: Indonesia
 ## Instruction : 
 - Clone repo ini ( ```git clone https://github.com/Khip01/gin-restful-api-go.git``` )  **|| Atau ||** Download repo ini
 - Pastikan service dari mysql sudah aktif sehingga memiliki akses ke database
-> __Warning__ \
+> [!WARNING]
 Default dari nama database API ini adalah ```db_restfulapi_gin```
 - Jalankan file berkestensi .exe
 
